@@ -1,0 +1,21 @@
+{
+    "name": "spaethtech/templating",
+    "description": "A custom Template engine for our projects.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Spaeth",
+            "email": "rspaeth@spaethtech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SpaethTech\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "symfony/console": "^5.4"
+    }
+}
