@@ -1,5 +1,5 @@
 {
-    "name": "spaethtech/templating",
+    "name": "spaethtech/php-templating",
     "description": "A custom Template engine for our projects.",
     "type": "library",
     "license": "MIT",
